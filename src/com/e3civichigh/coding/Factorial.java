@@ -23,7 +23,7 @@ public class Factorial
         int result = 1;
 
         // TODO 2: Please create a foor loop that counts from 2 up to and including n
-        for(int i = 2; i < ; i++) {
+        for(int i = 2; i <= n ; i++) {
             result *= i;
         }
 
